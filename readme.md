@@ -1,3 +1,3 @@
 # Working with Git for the first time
 
-This readme is in my day 2 folder. It will be committed 
+This readme is in my day 2 folder. It will be committed to github.

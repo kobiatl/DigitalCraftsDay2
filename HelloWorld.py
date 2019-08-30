@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+print("Hello "+ name)
+nameUppercase = input("WHAT IS YOUR NAME?")
+nameLength = len(nameUppercase)
+print("this is " + str(nameLength) + " characters")
